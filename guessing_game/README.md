@@ -1,6 +1,3 @@
-# Guessing Game
-
-
 ---
 
 # Guess the Number Game
@@ -25,7 +22,5 @@ A simple command-line guessing game in Rust.
    ```bash
    cargo run
    ```
-
-
 ---
 
